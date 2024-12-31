@@ -1,0 +1,14 @@
+{
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "window.commandCenter": false,
+    "workbench.startupEditor": "none",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.lineHeight": 1.6,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always"
+}
